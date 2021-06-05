@@ -1,0 +1,8 @@
+story-
+one day there is big explode in space and because of that big asteroids are coming towards the earth lets help earth and destroys those asteroids.
+platfrom-visual studio;
+characters-fighter plane (PC),asteroids,earth(NPC);
+libararies for this game are - p5.dom.min.js,p5.js,p5.play.js,p5.sound.min.js,
+goal-when all the 50 asteroids are destroy 
+device it can be played on-all devices
+loss-when three asteroids touches the earth the game will be over
